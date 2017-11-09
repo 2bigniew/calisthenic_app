@@ -1,0 +1,96 @@
+body{
+    background-color: rgb(201,221,255);
+}
+
+.well-image{
+    width: 100%;
+    height: 162px;
+}
+
+.top-buffer{
+    margin-top: 30px;
+}
+
+.answer{
+    padding: 15px 20px;
+    border-radius: 10px;
+    border: 1px solid #bbb;
+    height: 100%;
+}
+
+.answer:hover{
+    cursor: pointer;
+    background-color: rgb(216, 216, 216);
+}
+
+.image-answer{
+    height: 450px;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    
+}
+
+.image-answer img{
+    width: 70%;
+    height: auto;
+    transition: .5s;
+    margin: 6% 15%;
+}
+
+.image-answer img:hover{
+    transform: scale(0.9);   
+    cursor: pointer;
+}
+
+.image-selected img{
+    border: 3px solid rgb(28, 23, 28);
+}
+
+.image-answer.bg-success{
+    border: 3px solid #5ea640;   
+}
+
+.image-answer.bg-danger{
+    border: 3px solid #b74848;   
+}
+
+.well-box{
+    min-height: 450px;   
+}
+
+.answer-field{
+    height: 100px; 
+    margin-bottom: 20px;
+}
+
+.answer-good{
+    color: #5ea640;    
+}
+
+.answer-wrong{
+    color: #b74848;
+}
+
+.cover{
+    background-image: url(/img/Hannibal.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+}
+
+.exerciseField{
+    background-color: rgb(160,177,204);
+    color: rgb(10,10,10);
+}
+
+.navbarStyle{
+    background-color: rgb(62,86,127);   
+}
+
+.glyphicon-color{
+    color: rgb(250,250,250);   
+}
