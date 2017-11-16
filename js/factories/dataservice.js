@@ -107,7 +107,7 @@
             text: "Wybierz zdjęcie przedstawiające Podciąganie",
             possibilities: [
                 {
-                    answer: "http://i1.wp.com/www.myprotein.com/thezone/wp-content/uploads/2016/05/squatmuscles.jpg?resize=348%2C177"
+                    answer: "https://s-media-cache-ak0.pinimg.com/564x/8a/6e/dd/8a6edde99fee552c4f5e13b569bed56b.jpg"
                 },
                 {
                     answer: "https://static1.squarespace.com/static/57620587f7e0ab9b6d6b86e8/t/58d18cf42994ca0e80dc1348/1490128119434/"

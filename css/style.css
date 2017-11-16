@@ -75,7 +75,7 @@ body{
 }
 
 .cover{
-    background-image: url("calisthenic_app/img/cover.jpg");
+    background-image: url("/img/cover.jpg");
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
@@ -94,4 +94,9 @@ body{
 
 .glyphicon-color{
     color: rgb(250,250,250);   
+}
 
+.img-center{
+    margin-left: auto;
+    margin-right: auto;
+}
